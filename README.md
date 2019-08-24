@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
 You can use the [editor on GitHub](https://github.com/MyFriendKMC/MyFriendKMC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,5 +30,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ### Contact Me!
-
 Lets connect! Reach me email or phone call at kyle.chambers13@outlook.com or 875-565-8979
