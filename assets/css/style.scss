@@ -6,17 +6,25 @@
 body{
   width: 100%
 }
+.logo{
+  display: block;
 
+}
 .page-header{
   background-color: black;
   background-image: none;
-  height: 70%
+  height: 70%;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
 
 }
-.logo{
-  display: block;
 
+.main-content{
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  color: rgb(18,18,18);
+  height: auto;
+  margin-top: 200px;
 }
