@@ -3,9 +3,18 @@
 
 @import "{{ site.theme }}";
 
+body{
+  width: 100%
+}
+
 .page-header{
   background-color: black;
   background-image: none;
+  height: 70%
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+
 }
 .logo{
   display: block;
