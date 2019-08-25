@@ -20,16 +20,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <,<div class="banner">
-      <img src= "https://user-images.githubusercontent.com/47094499/63652374-9c39cc00-c72d-11e9-8071-c6655b1ea345.png" alt= "logo"  style="width:50px;height:60px;">
-    </div>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <,<div class="test">
-
-        This is just filler text to test with.
-        
+      <div class="banner">
+        <img src= "https://user-images.githubusercontent.com/47094499/63652374-9c39cc00-c72d-11e9-8071-c6655b1ea345.png" alt= "logo"  style="width:50px;height:60px;">
       </div>
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
