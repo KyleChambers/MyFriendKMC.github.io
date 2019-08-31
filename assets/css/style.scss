@@ -69,4 +69,25 @@ nav{
   align-items: center;
   min-height: 8vh;
   background-color: #5d4954;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+  color: red;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 26px;
+}
+
+.nav-links{
+  display: flex;
+  width: 30%
+  justify-content: space-around;
+}
+
+.nav-links a{
+  color:red;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
 }
