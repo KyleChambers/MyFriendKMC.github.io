@@ -6,13 +6,13 @@
 body{
   width: 100%
 }
-.logo{
+.logo-container{
   display: block;
-  text-align: left;
+  padding-bottom: 90px;
 }
 
 .page-header{
-  background-color: white;
+  background-color: black;
   background-image: none;
   height: 100%;
   background-position: center;
@@ -21,6 +21,7 @@ body{
   margin-bottom: 1.0rem;
   margin-top: 0px;
   padding: 2rem 5rem;
+  text-align: left;
 
 }
 
