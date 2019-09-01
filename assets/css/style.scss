@@ -95,14 +95,40 @@ nav{
 
 .burger div{
   width: 25px;
-  height: 50px;
+  height: 5px;
   background-color: red;
   margin: 5px;
 }
 
+@media screen and (max-width:1024px;){
+ .nav-links{
+   width: 60%: none;
+ }
+
 @media screen and (max-width:786px){
  body{
-   display: none;
+   overflow: hidden;
+ }
+ .nav-links{
+   position: absolute;
+   right: 0px;
+   height: 92vh;
+   top: 8vh
+   background-color: inherit;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 50%;
+   transform: translate(100%);
+}
+
+.nav-links li{
+  opacity: 0;
+
+}
+
+ .burger{
+   display: block;
  }
 
 }
