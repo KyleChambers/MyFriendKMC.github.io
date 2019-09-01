@@ -100,14 +100,14 @@ nav{
   margin: 5px;
 }
 
-@media screen and (max-width:1024px;){
+@media screen and (max-width:1024px){
  .nav-links{
    width: 61%: none;
  }
 
 @media screen and (max-width:786px){
  body{
-   overflow: hidden;
+   overflow-x: hidden;
  }
  .nav-links{
    position: absolute;
