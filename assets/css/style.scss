@@ -121,6 +121,7 @@ nav{
    align-items: center;
    width: 50%;
    transform: translate(100%);
+   transition: transform 0.5s ease-in;
 }
 
 .nav-links li{
@@ -131,4 +132,8 @@ nav{
    display: block;
 }
 
+}
+
+.nav-active{
+  transform: translate(0%);
 }
