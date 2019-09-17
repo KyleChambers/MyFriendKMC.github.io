@@ -10,9 +10,10 @@ body{
 .page-header{
   background-image: url(https://user-images.githubusercontent.com/47094499/64568240-3dc53e00-d328-11e9-9fea-0d257f09dd53.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   position: relative;
+  padding: 0;
 }
 
 .main-content{
