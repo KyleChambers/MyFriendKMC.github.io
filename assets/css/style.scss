@@ -8,10 +8,10 @@ body{
 }
 
 .page-header{
-//  background-image: url(https://user-images.githubusercontent.com/47094499/64568240-3dc53e00-d328-11e9-9fea-0d257f09dd53.jpg);
-  height: 100%;
-  background-position: center;
+  background-image: url(https://user-images.githubusercontent.com/47094499/64568240-3dc53e00-d328-11e9-9fea-0d257f09dd53.jpg);
   background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
   position: relative;
   margin-bottom: 1.0rem;
   margin-top: 0px;
@@ -24,11 +24,6 @@ body{
   color: rgb(18,18,18);
   height: auto;
   margin-top: 100px;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
 }
 
 h1 {
