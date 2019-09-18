@@ -72,20 +72,21 @@ nav{
   color: white;
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-size: 26px;
+  font-size: 28px;
 }
 
 .nav-links{
   display: flex;
   width: 30%;
   justify-content: space-around;
+  list-style-type: none;
 }
 
 .nav-links a{
   color:white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 17px;
 }
 
 .burger{
