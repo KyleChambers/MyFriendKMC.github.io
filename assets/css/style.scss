@@ -58,7 +58,7 @@ h1 {
 }
 
 nav{
-  width: 100;
+  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -80,6 +80,7 @@ nav{
   width: 30%;
   justify-content: space-around;
   list-style-type: none;
+
 }
 
 .nav-links a{
