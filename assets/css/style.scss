@@ -22,7 +22,7 @@ body{
   margin-top: 100px;
 }
 
-h1 {
+.project-name {
   color: rgb(255,255,255);
   white-space: pre-wrap;
   font-size: 7.52vw;
@@ -32,10 +32,6 @@ h1 {
   text-transform: none;
   text-align: left;
   font-size: 130px;
-}
-
-.project-name {
-  font-size: 4.25rem;
 }
 
 .main-content {
