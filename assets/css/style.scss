@@ -30,7 +30,6 @@ h1{
 
 .site-title {
   position: absolute;
-  //top: 51%;
   color: rgb(255,255,255);
   white-space: pre-wrap;
   font-size: 5.52vw;
@@ -38,6 +37,8 @@ h1{
   letter-spacing: 0.15em;
   text-transform: none;
   text-align: left;
+  top: 74%;
+  width: 100%;
 }
 
 .main-content {
