@@ -67,7 +67,7 @@ nav{
   position: fixed;
   top: 0;
   left:0;
-  overflow-x: auto;
+//  overflow-x: auto;
   z-index: 1;
 }
 
@@ -113,7 +113,7 @@ nav{
 
 @media screen and (max-width:786px){
  body{
-  // overflow-x: hidden;
+   overflow-x: hidden;
  }
  .nav-links{
    position: absolute;
