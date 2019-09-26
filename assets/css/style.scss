@@ -137,8 +137,14 @@ nav{
    display: block;
 }
 
-}
-
 .nav-active{
   transform: translate(0%);
+}
+
+.main-content {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
 }
