@@ -148,9 +148,12 @@ nav{
 }
 
 .site-title{
+  position: absolute;
+  top: 60vh;
   width: auto;
   max-width: 100%;
   height: auto;
+  font-size: 10vh;
 }
 
 .fache {
