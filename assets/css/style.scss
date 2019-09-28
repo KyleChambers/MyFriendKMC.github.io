@@ -32,11 +32,6 @@ h1{
   padding: 0;
 }
 
-.title-contents{
-  position: absolute;
-  top: 50%;
-}
-
 .site-title {
   position: absolute;
   color: rgb(255,255,255);
@@ -49,6 +44,11 @@ h1{
   top: 42%;
   left: 1%;
   width: 100%;
+}
+
+.title-contents{
+  position: absolute;
+  top: 50%;
 }
 
 .button{
