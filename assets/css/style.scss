@@ -76,13 +76,15 @@ h1{
 }
 
 .fache {
-  width:21%;
+  width:100%;
   position: relative;
   padding: 0;
   margin: 0;
   top: 125%;
-  left: 2%;
+  left: 12%;
   margin: 10px;
+  float: left;
+  height: auto;
 }
 
 nav{
