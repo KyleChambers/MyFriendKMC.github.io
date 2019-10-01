@@ -81,7 +81,7 @@ h1{
 }
 
 .fache {
-  width:33%;
+  width:20%;
   position: relative;
   padding: 10px;
   margin: 10px;
@@ -93,6 +93,8 @@ h1{
 
 .fache img{
   max-width: 220px;
+  margin-right: auto;
+  display: block;
 }
 
 nav{
