@@ -83,12 +83,19 @@ h1{
   margin-top: 75px;
 }
 
+.main-content p {
+margin-left: 75px;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+margin-left: 75px;
+}
+
 .fache {
 width: 20%;
 height: auto;
 position: relative;
-top: 0vh;
-margin: 0;
+top: 135vh;
+margin: 0px 20px;
 padding: 0;
 background-color: red;
 }
