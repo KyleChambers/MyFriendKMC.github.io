@@ -113,10 +113,8 @@ padding: 0;
     font-size: 1em;
     color: black;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    //list-style-image: url(https://user-images.githubusercontent.com/47094499/72760840-1751c200-3ba8-11ea-9abe-b874c68db45d.png);
-    //list-style-type: square;
-    list-style-type: none;
-
+    list-style-image: url("https://user-images.githubusercontent.com/47094499/72772757-d4f1aa80-3bd2-11ea-8efd-2964c7322033.png)");
+    list-style-type: square; /* good practice to also add this */
 }
 
 .fache img{
