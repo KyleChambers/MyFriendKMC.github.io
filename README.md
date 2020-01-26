@@ -19,8 +19,9 @@ Creative functionality with intuitive design makes every interaction more meanin
 ### Projects
 
 Here I will display my projects that I've worked on throughout the years.
-<a href="https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb" class="button">NFL Conversion Analysis</a>
-
+<ul>
+<li><a href="https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb" class="button">NFL Conversion Analysis</a></li>
+</ul>
 ```markdown
 Syntax highlighted code block
 
