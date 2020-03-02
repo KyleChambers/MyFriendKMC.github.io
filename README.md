@@ -1,6 +1,8 @@
 ## Welcome!
 
-Hi! I’m Kyle! I love being involved in all things technology, especially Data Analytics and Big Data. These are powerful engines that drives businesses to their full potential. Without correctly visualizing and analyzing your company’s data, you could be holding back that potential. I currently work as a Data Analyst/ Developer where I am learning new technology every day. Let’s collaborate!
+Hi! I’m Kyle! I love being involved in all things technology, especially Data Analytics and Big Data. 
+
+These are powerful engines that drives businesses to their full potential. Without correctly visualizing and analyzing your company’s data, you could be holding back that potential. I currently work as a Data Analyst/ Developer where I am learning new technology every day. Let’s collaborate!
 
 
 ### About Me
