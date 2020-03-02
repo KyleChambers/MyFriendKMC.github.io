@@ -24,23 +24,5 @@ Here are some of the projects I've worked on:
 
 ![Tableau](https://user-images.githubusercontent.com/47094499/75714827-68220380-5c9a-11ea-8aea-e32ded88c0ca.png)
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### Contact Me
 Kyle.Chambers13@outlook.com | 862-579-7933
