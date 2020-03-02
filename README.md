@@ -20,6 +20,7 @@ Here are some of the projects I've worked on:
 
 [My Tableau Public Profile](https://public.tableau.com/profile/kyle.chambers) - Here you can view and download the different data visualizations I've worked on in Tableau. 
 
+![Tableau](https://user-images.githubusercontent.com/47094499/75714827-68220380-5c9a-11ea-8aea-e32ded88c0ca.png)
 
 
 ```markdown
