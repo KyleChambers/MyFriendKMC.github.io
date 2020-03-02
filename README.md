@@ -18,7 +18,7 @@ Creative functionality with intuitive design makes every interaction more meanin
 
 Here are some of the projects I've worked on:
   
-[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)- Analyzing NFL team success based on 3rd and 4th down conversions in Jupyter Notebook.
+[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)- Using Python to analyze NFL team conversion success on 3rd and 4th down conversions.
 
 [My Tableau Public Profile](https://public.tableau.com/profile/kyle.chambers) - Here you can view and download the different data visualizations I've worked on in Tableau. 
 
