@@ -1,46 +1,28 @@
-## Welcome to My Page!
+## Welcome!
 
-My passion and focus is software development
+Hi! I’m Kyle! I love being involved in all things technology, especially Data Analytics and Big Data. 
 
-Let's be honest and cut through the fluff. You need a business solution that actually works. Bottom line, that's what I do. And if you want to learn more about working with me, pick up the phone and give me a call (or email).
+These are powerful engines that drives businesses to their full potential. Without correctly visualizing and analyzing your company’s data, you could be holding back that potential. I currently work as a Data Analyst/ Developer where I am learning new technology every day. Let’s collaborate!
+
 
 ### About Me
+Here's a quick timeline of how I got where I am today!
+![Timeline](https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### My Interests
-Strategy is the underlying foundation of every great brand experience. Strategy that is centered on clarifying a brand’s message to inform their decisions and shape their actions.
-
-From voice to tone to style, every expression matters. Brand design shapes a brand experience by creating identity touchpoints from design systems to key messages.
-
 Creative functionality with intuitive design makes every interaction more meaningful. Embracing digital as an extension of the physical brand has the power to elevate the experience.
 
 
 ### Projects
 
-Here I will display my projects that I've worked on throughout the years.  
+Here are some of the projects I've worked on:
   
-[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)
+[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)- Using Python to analyze NFL team conversion success on 3rd and 4th down conversions.
 
-```markdown
-Syntax highlighted code block
+[My Tableau Public Profile](https://public.tableau.com/profile/kyle.chambers) - Here you can view and download the different data visualizations I've worked on in Tableau. 
 
-# Header 1
-## Header 2
-### Header 3
+![Tableau](https://user-images.githubusercontent.com/47094499/75715926-3f027280-5c9c-11ea-9133-5c292a5d9a84.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-### Contact Me!
-Lets connect! Reach me email or phone call at kyle.chambers13@outlook.com or 875-565-8979
+### Contact Me
+Kyle.Chambers13@outlook.com | 862-579-7933
