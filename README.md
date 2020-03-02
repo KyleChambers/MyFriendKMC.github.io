@@ -1,18 +1,14 @@
-## Welcome to My Page!
+## Welcome!
 
-My passion and focus is software development
+Hi! I’m Kyle! I love being involved in all things technology, especially Data Analytics and Big Data. These are powerful engines that drives businesses to their full potential. Without correctly visualizing and analyzing your company’s data, you could be holding back that potential. I currently work as a Data Analyst/ Developer where I am learning new technology every day. Let’s collaborate!
 
-Let's be honest and cut through the fluff. You need a business solution that actually works. Bottom line, that's what I do. And if you want to learn more about working with me, pick up the phone and give me a call (or email).
 
 ### About Me
+Ma
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Timeline](https://user-images.githubusercontent.com/47094499/75714035-f0070e00-5c98-11ea-86e9-3f126c08c5b6.png)
 
 ### My Interests
-Strategy is the underlying foundation of every great brand experience. Strategy that is centered on clarifying a brand’s message to inform their decisions and shape their actions.
-
-From voice to tone to style, every expression matters. Brand design shapes a brand experience by creating identity touchpoints from design systems to key messages.
-
 Creative functionality with intuitive design makes every interaction more meaningful. Embracing digital as an extension of the physical brand has the power to elevate the experience.
 
 
