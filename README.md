@@ -5,7 +5,7 @@ Hi! I’m Kyle! I love being involved in all things technology, especially Data 
 
 ### About Me
 Here's a quick timeline of how I got where I am today!
-![Timeline]((https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
+![Timeline](https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
 
 
 ### My Interests
