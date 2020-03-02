@@ -4,10 +4,8 @@ Hi! I’m Kyle! I love being involved in all things technology, especially Data 
 
 
 ### About Me
-Here's a timeline of how I got where I am today!
-![Timeline](https://user-images.githubusercontent.com/47094499/75714035-f0070e00-5c98-11ea-86e9-3f126c08c5b6.png)
-
-
+Here's a quick timeline of how I got where I am today!
+![Timeline]((https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
 
 
 ### My Interests
@@ -41,8 +39,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
-
-### Contact Me!
+### Contact Me
 Kyle.Chambers13@outlook.com | 862-579-7933
