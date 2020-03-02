@@ -47,4 +47,4 @@ Syntax highlighted code block
 
 
 ### Contact Me!
-Lets connect! Reach me viua email or phone call at kyle.chambers13@outlook.com or 862-579-7933
+Lets connect! Reach me via email or phone call at kyle.chambers13@outlook.com or 862-579-7933
