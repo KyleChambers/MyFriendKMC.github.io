@@ -18,9 +18,9 @@ Creative functionality with intuitive design makes every interaction more meanin
 
 ### Projects
 
-Here I will display my projects that I've worked on throughout the years.  
+Here are some of the projects I've worked on:
   
-[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)
+[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)- Analyzing NFL team success based on 3rd and 4th down conversions. 
 
 ```markdown
 Syntax highlighted code block
@@ -43,4 +43,4 @@ Syntax highlighted code block
 
 
 ### Contact Me!
-Lets connect! Reach me email or phone call at kyle.chambers13@outlook.com or 875-565-8979
+Lets connect! Reach me viua email or phone call at kyle.chambers13@outlook.com or 862-579-7933
