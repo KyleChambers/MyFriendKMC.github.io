@@ -4,9 +4,11 @@ Hi! I’m Kyle! I love being involved in all things technology, especially Data 
 
 
 ### About Me
-Ma
-
+Here's a timeline of how I got where I am today!
 ![Timeline](https://user-images.githubusercontent.com/47094499/75714035-f0070e00-5c98-11ea-86e9-3f126c08c5b6.png)
+
+
+
 
 ### My Interests
 Creative functionality with intuitive design makes every interaction more meaningful. Embracing digital as an extension of the physical brand has the power to elevate the experience.
