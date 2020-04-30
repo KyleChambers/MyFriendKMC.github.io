@@ -1,6 +1,8 @@
 ## Welcome!
 
-Hi! I’m Kyle! I love being involved in all things technology, especially Data Analytics and Big Data. 
+Hi! I'm Kyle Chambers from Morristown, NJ. My background is in information technology, and I've worked in several different areas in the industry, from Information Security to UI development.
+
+I'm amazed by the way data influences research and strive to learn more about how I could use programming to make positive impacts in my field.
 
 These are powerful engines that drive businesses to their full potential. Without correctly visualizing and analyzing your company’s data, you could be holding back that potential. I currently work as a Data Analyst/Developer where I am learning new technology every day. Let’s collaborate!
 
@@ -9,9 +11,6 @@ These are powerful engines that drive businesses to their full potential. Withou
 Here's a quick timeline of how I got where I am today!
 ![Timeline](https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
 
-
-### My Interests
-Creative functionality with intuitive design makes every interaction more meaningful. Embracing digital as an extension of the physical brand has the power to elevate the experience.
 
 
 ### Projects
