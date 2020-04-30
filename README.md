@@ -10,7 +10,7 @@ This can be a powerful engine that drives businesses to their full potential. Wi
 ### About Me
 Here's a quick timeline of how I got where I am today!
 
-![Timeline](https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
+![Timeline](https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)(https://user-images.githubusercontent.com/47094499/75714451-b8e52c80-5c99-11ea-9f41-d67ee7399e13.png)
 
 ### Projects
 
