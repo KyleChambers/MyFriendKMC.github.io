@@ -16,7 +16,9 @@ Here's a quick timeline of how I got where I am today!
 
 Here are some of the projects I've worked on:
   
-[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)- Using Python to analyze NFL team conversion success on 3rd and 4th down conversions.
+[NFL Conversion Analysis](https://github.com/MyFriendKMC/Conversions/blob/master/NFL_conversions.ipynb)- Using Python to analyze NFL team conversion success on 3rd and 4th down conversions in Jupyter Notebook.
+
+[Spotify Profile Analysis](https://github.com/myfriendkmc/spotify) - Connecting to Spotify's API using Spotipy and analyzing the top 50 songs on my own account
 
 [My Tableau Public Profile](https://public.tableau.com/profile/kyle.chambers) - Here you can view and download the different data visualizations I've worked on in Tableau. 
 
