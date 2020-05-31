@@ -214,10 +214,15 @@ padding: 0;
 // }
 
 @media screen and (max-width:600px){
- body{
+body{
    overflow-x: hidden;
    width: 100%;
  }
+
+h1{
+    display: none;
+}
+
 //  .nav-links{
 //    position: absolute;
 //    right: 0px;
