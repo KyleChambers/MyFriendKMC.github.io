@@ -140,27 +140,27 @@ padding: 0;
   max-width: 246px;
 }
 
-nav{
-  width: 100%;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  min-height: 8vh;
-  background-color: black;
-  font-family: 'Poppins', sans-serif;
-  opacity: 0.9;
-  position: fixed;
-  top: 0;
-  left:0;
-  z-index: 3;
-  //overflow-x: hidden;
-  z-index: 1;
-}
+// nav{
+//   width: 100%;
+//   display: flex;
+//   justify-content: space-around;
+//   align-items: center;
+//   min-height: 8vh;
+//   background-color: black;
+//   font-family: 'Poppins', sans-serif;
+//   opacity: 0.9;
+//   position: fixed;
+//   top: 0;
+//   left:0;
+//   z-index: 3;
+//   //overflow-x: hidden;
+//   z-index: 1;
+// }
 
-nav a:hover {
-  background-color: #ddd;
-  color: black;
-}
+// nav a:hover {
+//   background-color: #ddd;
+//   color: black;
+// }
 
 .logo{
   color: white;
@@ -169,20 +169,20 @@ nav a:hover {
   font-size: 28px;
 }
 
-.nav-links{
-  display: flex;
-  width: 35%;
-  justify-content: space-around;
-  list-style-type: none;
-
-}
-
-.nav-links a{
-  color:white;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 15px;
-}
+// .nav-links{
+//   display: flex;
+//   width: 35%;
+//   justify-content: space-around;
+//   list-style-type: none;
+//
+// }
+//
+// .nav-links a{
+//   color:white;
+//   text-decoration: none;
+//   font-weight: bold;
+//   font-size: 15px;
+// }
 
 .logo > h4:nth-child(1) {
     font-size: 26px;
@@ -218,36 +218,36 @@ nav a:hover {
    overflow-x: hidden;
    width: 100%;
  }
- .nav-links{
-   position: absolute;
-   right: 0px;
-   height: 92vh;
-   top: 8vh;
-   background-color: inherit;
-   display: flex;
-   flex-direction: column;
-   align-items: center;
-   width: 100%;
-   transform: translate(100%);
-   transition: transform 0.5s ease-in;
-}
-
-.nav-links li{
-  opacity: 0;
-}
-
-.nav-links a {
-font-size: 17px;
-}
-
-.burger{
-   display: block;
-   float: right;
-}
-
-.nav-active{
-  transform: translate(0%);
-}
+//  .nav-links{
+//    position: absolute;
+//    right: 0px;
+//    height: 92vh;
+//    top: 8vh;
+//    background-color: inherit;
+//    display: flex;
+//    flex-direction: column;
+//    align-items: center;
+//    width: 100%;
+//    transform: translate(100%);
+//    transition: transform 0.5s ease-in;
+// }
+//
+// .nav-links li{
+//   opacity: 0;
+// }
+//
+// .nav-links a {
+// font-size: 17px;
+// // }
+//
+// .burger{
+//    display: block;
+//    float: right;
+// }
+//
+// .nav-active{
+//   transform: translate(0%);
+// }
 
 .main-content {
   width: auto;
