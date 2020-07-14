@@ -24,6 +24,8 @@ Here are some of the projects I've worked on:
 
 ![Tableau](https://user-images.githubusercontent.com/47094499/75715926-3f027280-5c9c-11ea-9133-5c292a5d9a84.png)
 
+[![Tableau](https://user-images.githubusercontent.com/47094499/75715926-3f027280-5c9c-11ea-9133-5c292a5d9a84.png)](https://user-images.githubusercontent.com/47094499/75715926-3f027280-5c9c-11ea-9133-5c292a5d9a84.png)
+
 
 ### Contact Me
 [Kyle.Chambers13@outlook.com](mailto:kyle.chambers13@outlook.com) | 
