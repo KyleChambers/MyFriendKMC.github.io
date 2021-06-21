@@ -1,10 +1,6 @@
 ## Welcome!
 More than 5 years managing, designing, and deploying various tasks for MS Exchange and Web Clients. Migrated and enhanced various Notes/Domino based applications to MS web based applications. Wrote technical manuals, project plans, training manuals and technical/standard-operating procedures. Interested in exciting new collaborative environments.
 
-
-### About Me
-Here's a quick timeline of how I got where I am today!
-
 ### Projects
 
 Here are some of the projects I've worked on:
