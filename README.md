@@ -1,10 +1,5 @@
 ## Welcome!
-
-Hi! I'm Kyle Chambers from Whippany, NJ. My background is in information technology and management, and I've worked in several different areas in the industry, from Information Security to UI development.
-
-I'm amazed by the way data influences critical decision making and strive to learn more about how I could use programming to make positive impacts in my field.
-
-This is a powerful engine that drives businesses to their full potential. Without correctly visualizing and analyzing your company’s data, you could be holding back that potential. I currently work as a Data Analyst/Developer where I am learning new technology every day. Let’s collaborate!
+More than 5 years managing, designing, and deploying various tasks for MS Exchange and Web Clients. Migrated and enhanced various Notes/Domino based applications to MS web based applications. Wrote technical manuals, project plans, training manuals and technical/standard-operating procedures. Interested in exciting new collaborative environments.
 
 
 ### About Me
